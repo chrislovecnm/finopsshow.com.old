@@ -46,3 +46,7 @@ menu:
     #- name: RSS
     #url: index.xml
     #weight: 5
+deployment:
+  targets:
+    - name: "gcs"
+      url:  "gs://finopstoday.com"
