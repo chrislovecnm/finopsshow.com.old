@@ -3,5 +3,5 @@
 name = "gcs"
 # The Go Cloud Development Kit URL to deploy to. Examples:
 # GCS; see https://gocloud.dev/howto/blob/#gcs
-URL = "gs://finopstoday.com"
+URL = "gs://finopsshow.com"
 
