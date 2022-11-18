@@ -1,12 +1,54 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="https://finopstoday.com/xml/base.min.xml" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FinOps Today Podcast</title>
-    <link>https://finopstoday.com/</link>
-    <description>Recent content on FinOps Today Podcast</description>
+    <title>The FinOps Show</title>
+    <link>https://finopsshow.com/</link>
+    <description>Recent content on The FinOps Show</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://finopstoday.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 18 Nov 2022 10:29:17 -0700</lastBuildDate>
+    <atom:link href="https://finopsshow.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 1 - Webb Brown CEO of Kubecost</title>
+      <link>https://finopsshow.com/episodes/episode-001/</link>
+      <pubDate>Fri, 18 Nov 2022 10:29:17 -0700</pubDate>
+      <guid>https://finopsshow.com/episodes/episode-001/</guid>
+      <description>&lt;img src=&#34;https://finopsshow.com/webb-brown.png&#34; alt=&#34;Webb Brown&#34; style=&#34;width:200px;&#34;/&gt;
+&lt;p&gt;We are joined by Webb Brown. Webb is Co-founder &amp;amp; CEO at &lt;a href=&#34;https://kubecost.com&#34;&gt;Kubecost&lt;/a&gt;. A former Google Product Manager,
+Webb&amp;rsquo;s extensive technical and leadership expertise has propelled him to the forefront of solving the persistent
+cost management challenges for thousands of Kubernetes users. In 2021, Webb became part of the governing &lt;a href=&#34;https://www.finops.org/about/governing-board/&#34;&gt;board&lt;/a&gt;
+of the FinOps Foundation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Host</title>
+      <link>https://finopsshow.com/host/</link>
+      <pubDate>Fri, 18 Nov 2022 10:27:54 -0700</pubDate>
+      <guid>https://finopsshow.com/host/</guid>
+      <description>&lt;img src=&#34;https://finopsshow.com/chris-love.jpg&#34; alt=&#34;Chris Love&#34; style=&#34;width:200px;&#34;/&gt;
+&lt;p&gt;Chris Love is a Google Cloud Certified hybrid Multi-cloud Fellow and a Co-founder of Lionkube. Chris co-authored the book Core Kubernetes. He has over 25 years of software and IT engineering experience with companies including Google, Oracle, VMWare, Cisco, Johnson &amp;amp; Johnson, and others. As a thought leader within Kubernetes and the DevOps community, Chris Love has contributed to many open source projects, including Kubernetes, kops (former AWS SIG lead), Bazel (contributed to Kubernetes rules), and Terraform (an early contributor to the VMware plugin). His professional interests include Kubernetes, IT culture transformation, containerization technologies, automated testing frameworks and practices, and DevOps. Love also enjoys speaking around the world about DevOps, Kubernetes, and Technology and mentoring people in the IT and Software industry.&lt;/p&gt;
+&lt;p&gt;Outside work, Love enjoys skiing, volleyball, playing with his dogs, and other outdoor activities that come with living in Colorado. If you’re interested in having virtual coffee or have questions for Chris, you can contact him at @chrislovecnm on Twitter or LinkedIn.&lt;/p&gt;
+&lt;p&gt;To purchase his book &amp;ldquo;Core Kubernetes&amp;rdquo; go to &lt;a href=&#34;https://bit.ly/core-kubernetes&#34;&gt;https://bit.ly/core-kubernetes&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About our Show</title>
+      <link>https://finopsshow.com/about/</link>
+      <pubDate>Fri, 18 Nov 2022 10:27:28 -0700</pubDate>
+      <guid>https://finopsshow.com/about/</guid>
+      <description>&lt;p&gt;
+“The FinOps Show” breaks down cost-savings incites from world-class industry leaders.  
+FinOps is an emerging practice that helps companies focus on computer infrastructure cost savings.   
+For years we have had a gap between company earnings, profits, and computer engineering costs, 
+and our guests provide information that helps you bridge that black hole.  
+We bridge the hole through culture and process changes backed by data and financial management.
+&lt;p&gt;
+The PodCast is short form, either 15 or 30 minutes, and is accessible in video and audio formats.
+</description>
+    </item>
+    
   </channel>
 </rss>
