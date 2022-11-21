@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The FinOps Show</title>
+    <title></title>
     <link>https://finopsshow.com/</link>
-    <description>Recent content on The FinOps Show</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Fri, 18 Nov 2022 10:29:17 -0700</lastBuildDate>
@@ -14,7 +14,7 @@
       <link>https://finopsshow.com/episodes/episode-001/</link>
       <pubDate>Fri, 18 Nov 2022 10:29:17 -0700</pubDate>
       <guid>https://finopsshow.com/episodes/episode-001/</guid>
-      <description>&lt;img src=&#34;https://finopsshow.com/webb-brown.png&#34; alt=&#34;Webb Brown&#34; style=&#34;width:200px;&#34;/&gt;
+      <description>&lt;img src=&#34;https://finopsshow.com/finops-ep01.png&#34; alt=&#34;Episode 1 with Webb Brown&#34; /&gt;
 &lt;p&gt;We are joined by Webb Brown. Webb is Co-founder &amp;amp; CEO at &lt;a href=&#34;https://kubecost.com&#34;&gt;Kubecost&lt;/a&gt;. A former Google Product Manager,
 Webb&amp;rsquo;s extensive technical and leadership expertise has propelled him to the forefront of solving the persistent
 cost management challenges for thousands of Kubernetes users. In 2021, Webb became part of the governing &lt;a href=&#34;https://www.finops.org/about/governing-board/&#34;&gt;board&lt;/a&gt;
