@@ -12,7 +12,7 @@ podcast:
   block: no
 ---
 
-<img src="/webb-brown.png" alt="Webb Brown" style="width:200px;"/>
+<img src="/finops-ep01.png" alt="Episode 1 with Webb Brown" />
 
 We are joined by Webb Brown. Webb is Co-founder & CEO at [Kubecost](https://kubecost.com). A former Google Product Manager,
 Webb's extensive technical and leadership expertise has propelled him to the forefront of solving the persistent 
@@ -24,7 +24,7 @@ Listen to the episode on
 - [Spotify](https://open.spotify.com/show/6B6ty6LROnTiRAX4EE6w7b)
 - [iTunes](https://podcasts.apple.com/us/podcast/the-finops-show/id1655432338)
 - [Amazon Music](https://music.amazon.com/podcasts/c090ae59-f24d-4815-a8bb-998efad75d3f/episodes/0eaf31d5-e85e-41b2-a816-621c800891f6/the-finops-show-episode-1-webb-brown-kubecost-ceo)
-- [Google Play](TBD)
+- [iHeartRadio](https://www.iheart.com/podcast/269-the-finops-show-104841132/episode/the-finops-show-episode-1-104841137/)
 
 Watch on 
-- [Youtube](https://youtu.be/I32oo0pccsQ) 
+- [YouTube](https://youtu.be/I32oo0pccsQ) 
